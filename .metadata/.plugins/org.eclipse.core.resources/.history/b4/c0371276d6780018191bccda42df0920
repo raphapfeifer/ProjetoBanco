@@ -1,0 +1,11 @@
+package br.com.bytefuncionario.teste;
+
+public class TesteGerente {
+
+	public static void main(String[] args) {
+		
+		Autenticavel gerente = new Gerente();
+
+	}
+
+}

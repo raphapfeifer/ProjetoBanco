@@ -1,6 +1,6 @@
 package br.com.bytefuncionario.modelo;
 
-public class Gerente extends Funcionario {
+public class Gerente extends Funcionario implements Autenticavel{
 
 	private int senha;
 	
@@ -9,17 +9,18 @@ public class Gerente extends Funcionario {
 		System.out.println("Chamando o método de bonificacao do Gerente");
 	    return super.getSalario();
 	}
-	
+
 	public void setSenha(int senha) {
 		this.senha = senha;
 	}
 
 	public boolean autentica(int senha) {
-		if (this.senha == senha) {
+		if(this.senha == senha){
 			return true;
-		} else {
+		}else{
 			return false;
 		}
 	}
-
+	
+	
 }

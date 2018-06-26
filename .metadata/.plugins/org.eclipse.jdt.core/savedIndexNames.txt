@@ -1,0 +1,4 @@
+INDEX VERSION 1.130+/home/raphael/java/ProjetoBanco/.metadata/.plugins/org.eclipse.jdt.core
+1748679790.index
+264564812.index
+2668608736.index

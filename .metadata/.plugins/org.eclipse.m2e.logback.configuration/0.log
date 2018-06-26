@@ -1,0 +1,120 @@
+2018-06-25 21:06:22,272 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.bytefuncionario:funcionario:0.0.1-SNAPSHOT @ /home/raphael/java/ProjetoBanco/bytefuncionario/pom.xml.
+2018-06-25 21:06:23,999 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bytefuncionario/src/main/java
+2018-06-25 21:06:24,000 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bytefuncionario/src/test/java
+2018-06-25 21:06:24,186 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2018-06-25 21:06:26,013 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:06:26,020 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:06:26,033 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:06:26,034 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:06:44,327 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.bytebank-herdado:bytebank:0.0.1-SNAPSHOT @ /home/raphael/java/ProjetoBanco/bytebank/pom.xml.
+2018-06-25 21:06:44,517 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bytebank/src/main/java
+2018-06-25 21:06:44,518 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bytebank/src/test/java
+2018-06-25 21:06:44,551 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2018-06-25 21:06:45,023 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:06:45,023 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytebank/src/main/resources
+2018-06-25 21:06:45,025 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:06:45,027 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytebank/src/test/resources
+2018-06-25 21:07:25,012 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:07:25,012 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytebank/src/main/resources
+2018-06-25 21:07:25,014 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:07:25,014 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytebank/src/test/resources
+2018-06-25 21:07:25,019 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:07:25,020 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:07:25,021 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:07:25,021 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:08:40,239 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:08:40,240 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:08:40,241 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:08:40,242 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:09:03,394 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:09:03,394 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:09:03,395 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:09:03,396 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:09:44,639 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:09:44,639 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:09:44,641 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:09:44,641 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:10:15,993 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:10:15,994 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:10:15,998 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:10:15,998 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:11:03,645 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:11:03,645 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:11:03,646 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:11:03,646 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:11:08,191 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:11:08,191 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:11:08,192 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:11:08,192 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:13:12,274 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:13:12,275 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:13:12,276 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:13:12,276 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:13:29,813 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:13:29,814 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:13:29,815 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:13:29,815 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:13:59,431 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:13:59,431 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:13:59,432 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:13:59,433 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:16:05,882 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:16:05,882 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:16:05,885 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:16:05,885 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:16:14,392 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:16:14,392 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:16:14,394 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:16:14,394 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:16:19,495 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:16:19,495 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:16:19,498 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:16:19,499 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:17:51,865 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:17:51,865 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:17:51,867 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:17:51,867 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:18:17,092 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:18:17,092 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:18:17,095 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:18:17,096 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:18:33,562 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:18:33,562 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:18:33,564 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:18:33,564 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:19:30,688 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:19:30,688 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:19:30,689 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:19:30,689 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:21:44,495 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:21:44,495 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:21:44,496 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:21:44,496 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:22:29,155 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:22:29,155 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:22:29,155 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:22:29,156 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:23:02,429 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:23:02,429 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:23:02,430 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:23:02,430 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:23:31,231 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:23:31,232 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:23:31,234 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:23:31,234 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:30:29,475 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:30:29,475 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:30:29,476 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:30:29,476 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:30:50,989 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:30:50,989 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:30:50,991 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:30:50,991 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:35:16,016 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:35:16,016 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:35:16,017 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:35:16,018 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
+2018-06-25 21:35:20,372 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:35:20,372 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/main/resources
+2018-06-25 21:35:20,373 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-25 21:35:20,373 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/ProjetoBanco/bytefuncionario/src/test/resources
