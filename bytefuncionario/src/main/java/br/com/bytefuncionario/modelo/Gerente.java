@@ -1,8 +1,14 @@
 package br.com.bytefuncionario.modelo;
 
+import br.com.bytefuncionario.util.AutenticacaoUtil;
+
 public class Gerente extends Funcionario implements Autenticavel{
 
-	private int senha;
+	private AutenticacaoUtil autenticador;
+	
+	public Gerente(){
+		this.autenticador = new AutenticacaoUtil();
+	}
 	
 	@Override
 	public double getBonificacao() {
@@ -11,16 +17,12 @@ public class Gerente extends Funcionario implements Autenticavel{
 	}
 
 	public void setSenha(int senha) {
-		this.senha = senha;
+		this.autenticador.setSenha(senha);
 	}
 
 	public boolean autentica(int senha) {
-		if(this.senha == senha){
-			return true;
-		}else{
-			return false;
-		}
+		return this.autenticador.autentica(senha);
 	}
-	
+
 	
 }
