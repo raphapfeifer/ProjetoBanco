@@ -1,0 +1,9 @@
+package br.com.javapilha.config;
+
+public class Conta {
+	
+	void deposita() throws MinhaExcecao{
+		
+	};
+
+}

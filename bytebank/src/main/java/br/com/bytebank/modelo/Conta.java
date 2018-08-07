@@ -1,5 +1,7 @@
 package br.com.bytebank.modelo;
 
+import br.com.bytebank.exception.SaldoInsuficienteException;
+
 public abstract class Conta  {
 
 	private double saldo;
@@ -17,22 +19,18 @@ public abstract class Conta  {
 	
 	public abstract void deposita(double valor);
 	
-	public boolean saca(double valor){
-		if(this.saldo >= valor){
-			this.saldo -= valor;
-			return true;
-		}else{
-			return false;
+	public void saca(double valor){
+		if(this.saldo < valor){
+			throw new SaldoInsuficienteException("Saldo: " + this.saldo + " , Valor: " + valor);
 		}
+		
+		this.saldo -= valor;
+		
 	}
 		
-	public boolean transfere(double valor,Conta destino){
-		if(this.saca(valor)){
+	public void transfere(double valor,Conta destino){
+			this.saca(valor);
 			destino.deposita(valor);
-			return true;
-		}else{
-			return false;
-		}
 	}
 
 	public double getSaldo() {

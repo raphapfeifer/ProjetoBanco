@@ -6,7 +6,11 @@
 <fullyQualifiedTypeName name="br.com.bytefuncionario.modelo.Cliente"/>
 <fullyQualifiedTypeName name="br.com.bytefuncionario.util.AutenticacaoUtil"/>
 <fullyQualifiedTypeName name="br.com.bytebank.modelo.Tributavel"/>
-<fullyQualifiedTypeName name="br.com.bytebank.modelo.ContaCorrente"/>
 <fullyQualifiedTypeName name="br.com.bytebank.modelo.SeguroDeVida"/>
 <fullyQualifiedTypeName name="br.com.bytebank.service.CalculadorDeImposto"/>
+<fullyQualifiedTypeName name="br.com.javapilha.config.Conta"/>
+<fullyQualifiedTypeName name="br.com.javapilha.util.MinhaExcecao"/>
+<fullyQualifiedTypeName name="br.com.bytebank.exception.SaldoInsuficienteException"/>
+<fullyQualifiedTypeName name="br.com.bytebank.modelo.ContaCorrente"/>
+<fullyQualifiedTypeName name="br.com.bytebank.modelo.Conta"/>
 </qualifiedTypeNameHistroy>

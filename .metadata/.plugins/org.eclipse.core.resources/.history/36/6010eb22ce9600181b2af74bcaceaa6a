@@ -1,0 +1,9 @@
+package br.com.javapilha.teste;
+
+public class TesteContaComExcecaoChecked {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}
