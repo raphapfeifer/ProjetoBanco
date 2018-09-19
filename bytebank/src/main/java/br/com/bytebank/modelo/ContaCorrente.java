@@ -1,5 +1,7 @@
 package br.com.bytebank.modelo;
 
+import br.com.bytebank.exception.SaldoInsuficienteException;
+
 public class ContaCorrente extends Conta implements Tributavel {
 
 	public ContaCorrente(int agencia, int numero) {
@@ -11,7 +13,7 @@ public class ContaCorrente extends Conta implements Tributavel {
 		super.setSaldo(super.getSaldo() + valor);
 	}
 	
-	public void saca(double valor){
+	public void saca(double valor) throws SaldoInsuficienteException{
 		double valorASacar = valor + 0.2;
 		super.saca(valorASacar);
 	}

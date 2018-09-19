@@ -4,7 +4,7 @@ import br.com.bytebank.exception.SaldoInsuficienteException;
 
 public abstract class Conta  {
 
-	private double saldo;
+	protected double saldo;
 	private int agencia;
 	private int numero;
 	private Cliente titular;
@@ -19,7 +19,7 @@ public abstract class Conta  {
 	
 	public abstract void deposita(double valor);
 	
-	public void saca(double valor){
+	public void saca(double valor) throws SaldoInsuficienteException{
 		if(this.saldo < valor){
 			throw new SaldoInsuficienteException("Saldo: " + this.saldo + " , Valor: " + valor);
 		}
@@ -28,7 +28,7 @@ public abstract class Conta  {
 		
 	}
 		
-	public void transfere(double valor,Conta destino){
+	public void transfere(double valor,Conta destino) throws SaldoInsuficienteException{
 			this.saca(valor);
 			destino.deposita(valor);
 	}
