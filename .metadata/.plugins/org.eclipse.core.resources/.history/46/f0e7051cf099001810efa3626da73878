@@ -1,9 +1,0 @@
-package br.com.bytebank.exception;
-
-public class SaldoInsuficienteExcepetion extends RuntimeException{
-	
-	public SaldoInsuficienteExcepetion(String msg){
-		super(msg);
-	}
-
-}

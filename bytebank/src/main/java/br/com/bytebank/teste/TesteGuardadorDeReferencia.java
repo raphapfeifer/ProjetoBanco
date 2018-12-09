@@ -4,7 +4,7 @@ import br.com.bytebank.modelo.Conta;
 import br.com.bytebank.modelo.ContaCorrente;
 import br.com.bytebank.modelo.GuardadorDeContas;
 
-public class Teste {
+public class TesteGuardadorDeReferencia {
 
 	public static void main(String[] args) {
 		

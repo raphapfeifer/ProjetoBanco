@@ -31,7 +31,14 @@ public abstract class Conta  {
 	public void transfere(double valor,Conta destino) throws SaldoInsuficienteException{
 			this.saca(valor);
 			destino.deposita(valor);
+			
 	}
+	
+	@Override
+	public String toString() {
+		return "Numero: " +this.numero + ", Agencia: " + this.agencia;
+	}
+
 
 	public double getSaldo() {
 		return saldo;
