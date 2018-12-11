@@ -1406,3 +1406,33 @@ org.eclipse.core.runtime.CoreException: Launch configuration TesteSaca reference
 2018-12-09 00:49:20,816 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphaelpfeifer/java/ProjetoBanco/bytebank/src/main/resources
 2018-12-09 00:49:20,817 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-12-09 00:49:20,817 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphaelpfeifer/java/ProjetoBanco/bytebank/src/test/resources
+2018-12-10 00:42:13,452 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-12-10 00:54:16,366 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 00:54:16,367 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphaelpfeifer/java/ProjetoBanco/bytebank/src/main/resources
+2018-12-10 00:54:16,368 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 00:54:16,368 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphaelpfeifer/java/ProjetoBanco/bytebank/src/test/resources
+2018-12-10 00:54:27,516 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 00:54:27,516 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphaelpfeifer/java/ProjetoBanco/bytebank/src/main/resources
+2018-12-10 00:54:27,519 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 00:54:27,519 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphaelpfeifer/java/ProjetoBanco/bytebank/src/test/resources
+2018-12-10 00:54:45,030 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 00:54:45,030 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphaelpfeifer/java/ProjetoBanco/bytebank/src/main/resources
+2018-12-10 00:54:45,032 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 00:54:45,032 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphaelpfeifer/java/ProjetoBanco/bytebank/src/test/resources
+2018-12-10 00:58:03,394 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 00:58:03,394 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphaelpfeifer/java/ProjetoBanco/bytebank/src/main/resources
+2018-12-10 00:58:03,395 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 00:58:03,396 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphaelpfeifer/java/ProjetoBanco/bytebank/src/test/resources
+2018-12-10 00:58:12,322 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 00:58:12,323 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphaelpfeifer/java/ProjetoBanco/bytebank/src/main/resources
+2018-12-10 00:58:12,325 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 00:58:12,325 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphaelpfeifer/java/ProjetoBanco/bytebank/src/test/resources
+2018-12-10 23:24:06,970 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-10 23:29:00,143 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 23:29:00,144 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphaelpfeifer/java/ProjetoBanco/bytebank/src/main/resources
+2018-12-10 23:29:00,146 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 23:29:00,146 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphaelpfeifer/java/ProjetoBanco/bytebank/src/test/resources
+2018-12-10 23:29:06,882 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 23:29:06,882 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphaelpfeifer/java/ProjetoBanco/bytebank/src/main/resources
+2018-12-10 23:29:06,883 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-10 23:29:06,883 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphaelpfeifer/java/ProjetoBanco/bytebank/src/test/resources

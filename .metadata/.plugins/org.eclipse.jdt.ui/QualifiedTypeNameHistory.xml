@@ -13,4 +13,7 @@
 <fullyQualifiedTypeName name="br.com.bytebank.exception.SaldoInsuficienteException"/>
 <fullyQualifiedTypeName name="br.com.bytebank.modelo.ContaCorrente"/>
 <fullyQualifiedTypeName name="br.com.bytebank.modelo.Conta"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
 </qualifiedTypeNameHistroy>
